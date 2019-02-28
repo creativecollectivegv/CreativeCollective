@@ -31,8 +31,8 @@ p{
 }
 
 .carousel .item {
-  height: 70vmin;
-  width: 100vw;
+  height: 500px;
+  max-width: 100%;
 }
 
 .carousel-inner img {
